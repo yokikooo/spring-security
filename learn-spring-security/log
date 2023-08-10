@@ -1,0 +1,17 @@
+2023-08-10T14:28:51.291+03:00  INFO 33317 --- [  restartedMain] o.s.s.web.DefaultSecurityFilterChain     :
+Will secure any request with [
+org.springframework.security.web.session.DisableEncodeUrlFilter@5e397603,
+org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3fd0bf0d,
+org.springframework.security.web.context.SecurityContextHolderFilter@407f3dd8,
+org.springframework.security.web.header.HeaderWriterFilter@517227da,
+org.springframework.security.web.csrf.CsrfFilter@59d4c820,
+org.springframework.security.web.authentication.logout.LogoutFilter@a9c75af,
+org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@2564a469,
+org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@12c784db,
+org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@1e7e4edf,
+org.springframework.security.web.authentication.www.BasicAuthenticationFilter@79cc293,
+org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4e9e2080,
+org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@530660c4,
+org.springframework.security.web.authentication.AnonymousAuthenticationFilter@76fd1bf9,
+org.springframework.security.web.access.ExceptionTranslationFilter@2225709a,
+org.springframework.security.web.access.intercept.AuthorizationFilter@ba8ad7e]
